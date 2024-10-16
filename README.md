@@ -27,7 +27,7 @@ This ROS 2 package controls the turtle in turtlesim to draw a circle.
 ## Dependencies
 
 - ROS 2 (Foxy, Humble, or Rolling)
-- Turtlesim
+- turtlesim
 
-Ensure that ROS 2 and Turtlesim are installed on your machine.
+Ensure that ROS 2 and turtlesim are installed on your machine.
 
