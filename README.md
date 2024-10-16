@@ -13,7 +13,7 @@ This ROS 2 package controls the turtle in turtlesim to draw a circle.
     source install/setup.bash
     ```
     
-2. Start a turtlesim node
+2. Start a turtlesim node:
 
    ```bash
    ros2 run turtlesim turtlesim_node
