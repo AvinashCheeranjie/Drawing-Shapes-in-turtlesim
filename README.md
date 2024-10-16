@@ -1,6 +1,6 @@
 # Drawing Shapes in turtlesim
 
-## Drawing the Circle Manually
+## Drawing a Circle Manually
 
 1. Start a turtlesim node:
 
