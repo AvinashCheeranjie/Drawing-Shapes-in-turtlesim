@@ -8,7 +8,7 @@ This ROS 2 package controls the turtle in turtlesim to draw a circle.
 
     ```bash
     cd /path/to/ros2/workspace # replace with path to ros2 workspace directory
-    git clone 
+    git clone https://github.com/AvinashCheeranjie/Drawing-Shapes-in-turtlesim.git
     colcon build
     source install/setup.bash
     ```
