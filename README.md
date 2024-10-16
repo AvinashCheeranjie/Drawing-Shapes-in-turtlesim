@@ -8,14 +8,16 @@ This ROS 2 package controls the turtle in turtlesim to draw a circle.
 
    ```bash
    ros2 run turtlesim turtlesim_node
-   ```   
+   ```
+   
+![image](https://github.com/user-attachments/assets/274f676e-1268-42e7-b093-9bc86a069c82)
    
 2. Run the following command in a new terminal:
 
     ```bash
     ros2 topic pub /turtle1/cmd_vel geometry_msgs/Twist "{linear: {x: 2.0, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 1.0}}"
     ```
-![Screenshot 2024-10-15 202110](https://github.com/user-attachments/assets/b5cc9fa0-7a52-46f7-9d6b-07f6f3d2f624)
+![image](https://github.com/user-attachments/assets/acde34b6-ba82-4287-b67f-108d67bd17a5)
 
 ## Installation
 
