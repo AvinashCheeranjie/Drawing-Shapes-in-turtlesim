@@ -1,7 +1,5 @@
 # Drawing Shapes in turtlesim
 
-This ROS 2 package controls the turtle in turtlesim to draw a circle.
-
 ## Drawing the Circle Manually
 
 1. Start a turtlesim node:
@@ -19,8 +17,9 @@ This ROS 2 package controls the turtle in turtlesim to draw a circle.
     ```
 ![image](https://github.com/user-attachments/assets/acde34b6-ba82-4287-b67f-108d67bd17a5)
 
-## Installation
+This ROS 2 package controls the turtle in turtlesim to draw a circle.
 
+## Installation
 
 1. Clone and Build the package:
 
