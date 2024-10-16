@@ -4,10 +4,11 @@ This ROS 2 package controls the turtle in turtlesim to draw a circle.
 
 ## Installation
 
-1. Build the package:
+1. Clone and Build the package:
 
     ```bash
-    cd ~/ros2_ws
+    cd /path/to/ros2/workspace # replace with path to ros2 workspace directory
+    git clone 
     colcon build
     source install/setup.bash
     ```
