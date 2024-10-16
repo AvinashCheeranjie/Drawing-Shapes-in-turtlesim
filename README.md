@@ -17,9 +17,9 @@
     ```
 ![image](https://github.com/user-attachments/assets/acde34b6-ba82-4287-b67f-108d67bd17a5)
 
-This ROS 2 package controls the turtle in turtlesim to draw a circle.
-
 ## Installation
+
+This ROS 2 package controls the turtle in turtlesim to draw a circle.
 
 1. Clone and Build the package:
 
