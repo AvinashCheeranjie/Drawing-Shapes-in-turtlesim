@@ -36,7 +36,7 @@ This ROS 2 package controls the turtle in turtlesim to draw a circle.
    ros2 run turtlesim turtlesim_node
    ```   
    
-3. Run the draw_circle.py script in a new terminal:
+3. Run the `draw_circle.py` script in a new terminal:
 
     ```bash
     ros2 run turtle_circle draw_circle
