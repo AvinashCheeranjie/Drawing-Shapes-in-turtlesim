@@ -19,7 +19,7 @@
 
 ## Installing the Custom Package
 
-This ROS 2 package controls the turtle in turtlesim to draw a circle.
+This ROS 2 package controls the turtle in turtlesim to draw a circle automatically.
 
 1. Clone and Build the package:
 
