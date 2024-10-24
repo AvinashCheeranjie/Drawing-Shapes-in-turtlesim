@@ -45,8 +45,7 @@ This ROS 2 package controls the turtle in turtlesim to draw a circle automatical
 ## Dependencies
 
 - Linux
-- [ROS 2]
-  (https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html)
+- ![ROS 2](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html)
 - turtlesim
 
 Ensure that ROS 2 and turtlesim are installed on your Linux machine.
